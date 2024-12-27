@@ -19,7 +19,7 @@ const UserManagement: React.FC = () => {
         <thead>
           <tr>
             <th>ID</th>
-            <th>Name</th>
+            <th>氏名</th>
             <th>Email</th>
           </tr>
         </thead>
