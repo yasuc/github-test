@@ -20,6 +20,7 @@ const UserManagement: React.FC = () => {
           <tr>
             <th>ID</th>
             <th>氏名</th>
+            <th>年齢</th>
             <th>Email</th>
           </tr>
         </thead>
