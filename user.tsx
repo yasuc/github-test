@@ -14,7 +14,7 @@ const UserManagement: React.FC = () => {
 
   return (
     <div>
-      <h1>User Management</h1>
+      <h1>ユーザ管理画面</h1>
       <table>
         <thead>
           <tr>
