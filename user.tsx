@@ -15,6 +15,7 @@ const UserManagement: React.FC = () => {
   return (
     <div>
       <h1>ユーザ管理画面</h1>
+      <h2>>{users.length} 件のユーザが登録されています。</h2>
       <table>
         <thead>
           <tr>
